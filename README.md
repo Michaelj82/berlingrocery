@@ -7,3 +7,4 @@ extracted data from REWE and Biomarkt
 
 
 Going to rescrape due to data inaccuracies
+- working on EDEKA
